@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://d1vdfsv66kxe6"]
+
+[ext_resource type="Script" uid="uid://dwdismgpngyf3" path="res://_/script/gdscript/godot_hello_world.gd" id="1_jlnc4"]
+
+[node name="DemoHelloGdscript" type="Node3D" unique_id=540286726]
+
+[node name="Node" type="Node" parent="." unique_id=1398947397]
+script = ExtResource("1_jlnc4")
